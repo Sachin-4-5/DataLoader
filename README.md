@@ -31,6 +31,45 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 
 
 
+## Project structure
+```
+│── DataLoader\
+    │── DataLoader
+        │── \bin
+        │── \obj
+        │── \Properties
+        │── App.config
+        │── Program.cs
+        │── PreProcessor.cs
+        │── DataLoadTemplate.cs
+        │── DataLoadInfo.cs
+        │── DataLoader.cs
+        │── Enumeration.cs
+        │── Archive.cs
+        │── DataLoader.csproj
+    │── ErrorLogger
+    │── Mailer
+    │── DataLoader.sln
+
+│── ProdData  
+    │── Archive
+    │── Incoming
+    │── Logs
+    
+│── ProdApps
+    │── Executable
+    │── Maestro
+    │── Templates
+    
+│── script.sql
+│── Readme.md
+```
+
+---
+<br />
+
+
+
 ## 🔧 Troubleshooting
 1️⃣ XML File Not Found?
 <ul>
