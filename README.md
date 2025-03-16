@@ -34,7 +34,7 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 ## Project structure
 ```
 │── DataLoader\
-    │── DataLoader
+    │── DataLoader\
         │── \bin
         │── \obj
         │── \Properties
@@ -51,12 +51,12 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
     │── Mailer
     │── DataLoader.sln
 
-│── ProdData  
+│── ProdData\  
     │── Archive
     │── Incoming
     │── Logs
     
-│── ProdApps
+│── ProdApps\
     │── Executable
     │── Maestro
     │── Templates
@@ -96,6 +96,7 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 
 ## 💡 Future Enhancements
 🔹 Implement multi-threading for faster processing <br />
+🔹 Add support for multiple data sources like - excel, json, etc. <br />
 🔹 Add support for multiple database types (MySQL, PostgreSQL) <br />
 
 ---
