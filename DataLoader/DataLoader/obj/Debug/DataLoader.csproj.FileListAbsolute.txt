@@ -1,0 +1,12 @@
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Debug\DataLoader.csproj.AssemblyReference.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Debug\DataLoader.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\DataLoader.exe.config
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\DataLoader.exe
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\DataLoader.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\ErrorLogger.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\Mailer.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\ErrorLogger.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Debug\Mailer.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Debug\DataLoader.csproj.Up2Date
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Debug\DataLoader.exe
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Debug\DataLoader.pdb

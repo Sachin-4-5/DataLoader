@@ -1,0 +1,6 @@
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\bin\Debug\ErrorLogger.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\bin\Debug\ErrorLogger.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\obj\Debug\ErrorLogger.csproj.AssemblyReference.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\obj\Debug\ErrorLogger.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\obj\Debug\ErrorLogger.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\ErrorLogger\obj\Debug\ErrorLogger.pdb

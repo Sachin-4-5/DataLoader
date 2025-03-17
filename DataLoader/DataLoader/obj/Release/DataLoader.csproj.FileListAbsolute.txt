@@ -1,0 +1,16 @@
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\DataLoader.exe.config
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\DataLoader.exe.manifest
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\DataLoader.application
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\DataLoader.exe
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\DataLoader.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\ErrorLogger.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\Mailer.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\ErrorLogger.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\bin\Release\Mailer.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.csproj.AssemblyReference.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.exe.manifest
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.application
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.csproj.Up2Date
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.exe
+D:\Projects\Console Applications (Legacy)\DataLoader\DataLoader\obj\Release\DataLoader.pdb

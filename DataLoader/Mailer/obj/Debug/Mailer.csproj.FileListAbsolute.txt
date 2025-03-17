@@ -1,0 +1,6 @@
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\bin\Debug\Mailer.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\bin\Debug\Mailer.pdb
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\obj\Debug\Mailer.csproj.AssemblyReference.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\obj\Debug\Mailer.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\obj\Debug\Mailer.dll
+D:\Projects\Console Applications (Legacy)\DataLoader\Mailer\obj\Debug\Mailer.pdb
