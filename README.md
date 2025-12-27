@@ -32,20 +32,20 @@ DataLoader is a console based utility application developed using .NET 8.0 (LTS)
 
 
 ## 📌 Project Configuration
-1️⃣ Project Name: DataLoader
-2️⃣ Solution Name: DataLoader.sln
-3️⃣ Framework: .NET 8 (LTS)
-4️⃣ Template: Console Application
-5️⃣ Language: C#
-6️⃣ Database: MS SQL Server
-7️⃣ Library: ADO.NET
+1️⃣ Project Name: DataLoader <br />
+2️⃣ Solution Name: DataLoader.sln <br />
+3️⃣ Framework: .NET 8 (LTS) <br />
+4️⃣ Template: Console Application <br />
+5️⃣ Language: C# <br />
+6️⃣ Database: MS SQL Server <br />
+7️⃣ Library: ADO.NET <br />
 
 ---
 <br />
 
 
 
-## Project structure
+## 🎓 Project structure
 ```
 │── DataLoader\
     │── DataLoader\
