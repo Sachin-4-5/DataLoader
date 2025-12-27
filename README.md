@@ -37,8 +37,9 @@ DataLoader is a console based utility application developed using .NET 8.0 (LTS)
 3️⃣ Framework: .NET 8 (LTS) <br />
 4️⃣ Template: Console Application <br />
 5️⃣ Language: C# <br />
-6️⃣ Database: MS SQL Server <br />
+6️⃣ Database: MS SQL Server 2022 <br />
 7️⃣ Library: ADO.NET <br />
+8️⃣ Tools: Visual Studio 2022, SSMS <br />
 
 ---
 <br />
