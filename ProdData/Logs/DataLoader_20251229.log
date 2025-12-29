@@ -1,0 +1,217 @@
+[INFO] [2025-12-29 14:08:21] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 14:08:38] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 14:08:57] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 14:09:11] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251228.xml
+------------------------------------------
+[INFO] [2025-12-29 14:33:08] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 14:33:10] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 14:33:12] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 14:33:24] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251228.xml
+------------------------------------------
+[INFO] [2025-12-29 14:34:03] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251228.xml
+------------------------------------------
+[INFO] [2025-12-29 14:34:03] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 14:34:17] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251228.xml
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251228.xml
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 17:01:36] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:01:37] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1004
+------------------------------------------
+[INFO] [2025-12-29 17:01:37] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1005
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 17:21:57] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:21:58] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1006
+------------------------------------------
+[INFO] [2025-12-29 17:21:58] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1007
+------------------------------------------
+[INFO] [2025-12-29 17:21:58] Source: Program :: XMLRead
+Message: Total records inserted: {transactions.Count}
+------------------------------------------
+[ERROR] [2025-12-29 17:21:58] Source: ArchiveProcess :: ArchiveFile
+Message: Failed to archive input file
+Error: Value cannot be null. (Parameter 'path')
+Stack:    at System.ArgumentNullException.Throw(String paramName)
+   at System.ArgumentNullException.ThrowIfNull(Object argument, String paramName)
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.IO.Directory.CreateDirectory(String path)
+   at DataLoader.Archive.ArchiveProcess.ArchiveFile(String sourceFilePath, String archiveDirectory) in C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\DataLoader\Archive\ArchiveProcess.cs:line 13
+------------------------------------------
+[ERROR] [2025-12-29 17:21:58] Source: Program :: Fatal
+Message: Unhandled exception occurred
+Error: Value cannot be null. (Parameter 'path')
+Stack:    at System.ArgumentNullException.Throw(String paramName)
+   at System.ArgumentNullException.ThrowIfNull(Object argument, String paramName)
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.IO.Directory.CreateDirectory(String path)
+   at DataLoader.Archive.ArchiveProcess.ArchiveFile(String sourceFilePath, String archiveDirectory) in C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\DataLoader\Archive\ArchiveProcess.cs:line 13
+   at Program.<Main>$(String[] args) in C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\DataLoader\Program.cs:line 77
+------------------------------------------
+[INFO] [2025-12-29 17:28:43] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 17:28:45] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 17:28:47] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 17:28:52] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:28:57] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:28:57] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 17:29:29] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:29:40] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1008
+------------------------------------------
+[INFO] [2025-12-29 17:29:44] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1009
+------------------------------------------
+[INFO] [2025-12-29 17:29:47] Source: Program :: XMLRead
+Message: Records inserted successfully!
+------------------------------------------
+[INFO] [2025-12-29 17:29:54] Source: ArchiveProcess :: ArchiveFile
+Message: File archived successfully: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Archive\transaction.20251229_20251229_172954.xml
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 17:48:16] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:48:17] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1010
+------------------------------------------
+[INFO] [2025-12-29 17:48:17] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1011
+------------------------------------------
+[INFO] [2025-12-29 17:48:17] Source: Program :: XMLRead
+Message: Records inserted successfully!
+------------------------------------------
+[INFO] [2025-12-29 17:48:17] Source: ArchiveProcess :: ArchiveFile
+Message: File archived successfully: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Archive\transaction.20251229_20251229_174817.xml
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: Program :: Startup
+Message: DataLoader application started
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: Program :: Template
+Message: Template path: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Template\TransactionTemplate.xml
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: Program :: Template
+Message: Template loaded successfully
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: Program :: InputFile
+Message: Latest file selected: transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: XmlTransactionParser :: Read
+Message: Reading XML file: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Input\transaction.20251229.xml
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: XmlTransactionParser :: Read
+Message: Total transactions parsed: 2
+------------------------------------------
+[INFO] [2025-12-29 17:59:00] Source: Program :: XMLRead
+Message: Total transactions loaded: 2
+------------------------------------------
+[INFO] [2025-12-29 17:59:01] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1012
+------------------------------------------
+[INFO] [2025-12-29 17:59:01] Source: StoredProcedureInserter :: Insert
+Message: Inserted Trade_Num=1013
+------------------------------------------
+[INFO] [2025-12-29 17:59:01] Source: Program :: XMLRead
+Message: Records inserted successfully!
+------------------------------------------
+[INFO] [2025-12-29 17:59:01] Source: ArchiveProcess :: ArchiveFile
+Message: File archived successfully: C:\Users\pr667\OneDrive\Desktop\Projects\2. Console Apps (.NET Core)\ProdData\Archive\transaction.20251229_20251229_175901.xml
+------------------------------------------
+[INFO] [2025-12-29 17:59:11] Source: MailSender :: SendMail
+Message: Email sent successfully
+------------------------------------------
+[INFO] [2025-12-29 17:59:11] Source: Program :: Complete
+Message: Email Sent Successfully!
+------------------------------------------
+[INFO] [2025-12-29 17:59:11] Source: Program :: Complete
+Message: Processing completed successfully!
+------------------------------------------

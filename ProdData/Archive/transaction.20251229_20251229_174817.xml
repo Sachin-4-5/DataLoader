@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSACTIONS ASOF_DATE="29/12/2025" CREATE_DATE="29/12/2025" RECORDS="2">
+	<TRADE>
+		<Trade_Num>1010</Trade_Num>
+		<Trade_Date>24/12/2025</Trade_Date>
+		<Trade_Currency>USD</Trade_Currency>
+		<Trade_Price>900.0000</Trade_Price>
+		<Trade_Maturity>28/12/2025</Trade_Maturity>
+		<Trade_Status>Successfully Processed</Trade_Status>
+	</TRADE>
+	<TRADE>
+		<Trade_Num>1011</Trade_Num>
+		<Trade_Date>24/12/2025</Trade_Date>
+		<Trade_Currency>USD</Trade_Currency>
+		<Trade_Price>950.0000</Trade_Price>
+		<Trade_Maturity>28/12/2025</Trade_Maturity>
+		<Trade_Status>Successfully Processed</Trade_Status>
+	</TRADE>
+</TRANSACTIONS>
